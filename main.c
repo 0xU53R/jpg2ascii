@@ -32,5 +32,5 @@ int main() {
 
     stbi_image_free(img);
     return 0;
-}
+}  
 
